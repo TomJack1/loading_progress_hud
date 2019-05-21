@@ -86,6 +86,9 @@ LELoadingController({
     this.loadingText = '正在加载...',//loading title
   });
 ```
+### Issues and feedback
 
+Please file [issues](https://github.com/TomJack1/loading_progress_hud/issues/new)
+to send feedback or report a bug. Thank you!
 
 
