@@ -1,8 +1,8 @@
 name: loading_progress_hud
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: TomJack1<445765368@qq.com>
+homepage: https://github.com/TomJack1/loading_progress_hud
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
