@@ -2,7 +2,7 @@
 
 a simple widget wrapper to enable modal progress HUD (a modal progress indicator, HUD = Heads Up Display)
 
-![Demo](https://github.com/TomJack1/loading_progress_hud/master/hud.gif)
+![Demo](https://github.com/TomJack1/loading_progress_hud/blob/master/hud.gif)
 
 ## Usage
 Add the package to your `pubspec.yml` file.
